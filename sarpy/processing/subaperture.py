@@ -15,7 +15,7 @@ _DEFAULT_SELECTEDFRAMES = None
 
 __author__ = ['Clayton Williams', 'Wade Schwartzkopf', 'Tom Braun']
 __classification__ = 'UNCLASSIFIED'
-__email__ = 'Clayton.S.Williams@aero.org'
+__email__ = 'cwilliams@iqt.org'
 
 
 def mem(ci, frames=_DEFAULT_FRAMES, apfraction=_DEFAULT_APFRACTION, method=_DEFAULT_METHOD,
